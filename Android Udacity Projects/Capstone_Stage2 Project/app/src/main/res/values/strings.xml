@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">nearbyPlaces1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Nearby_hospitals">Showing nearby hospitasl</string>
+    <string name="Nearby_schools">Showing nearby schools</string>
+    <string name="Nearby_restaurants"> Showing nearby restaurants</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name = "Name">Name</string>
+    <string name = "Search"> Search</string>
+    <string name = "Hospitals">Hospitals</string>
+    <string name = "Schools"> Schools</string>
+    <string name = "Restaurants">Restaurants</string>
+    <string name = "To"> To</string>
+    <string name = "Add_to_Widget">Add to Widget</string>
+    <string name = "denied_permission"> Denied permission</string>
+    <string name = "points_for_nearby_places">pointsForNearbyPlaces</string>
+    <string name = "latsAndLngs">latsAndLngsForNearbyPlaces</string>
+    <string name = "currentLocation">currentLocation</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>

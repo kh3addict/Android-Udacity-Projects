@@ -1,0 +1,91 @@
+
+
+
+
+<RelativeLayout
+
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/TF_location"
+        android:layout_width="290dp"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/Name"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/B_search"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/TF_location"
+        android:onClick="onClick"
+        android:text="@string/Search" />
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="332dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/B_hopistals"
+        android:layout_marginTop="86dp"
+        tools:context="fdffd.com.tutorials.hp.nearbyplaces1.MapsActivity" />
+
+    <Button
+        android:id="@+id/B_hopistals"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/TF_location"
+        android:onClick="onClick"
+        android:text="@string/Hospitals" />
+
+    <Button
+        android:id="@+id/B_schools"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TF_location"
+        android:layout_toEndOf="@+id/B_hopistals"
+        android:onClick="onClick"
+        android:text="@string/Schools" />
+
+    <Button
+        android:id="@+id/B_restaurants"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TF_location"
+        android:layout_toEndOf="@+id/B_schools"
+        android:onClick="onClick"
+        android:text="@string/Restaurants" />
+
+    <Button
+        android:id="@+id/B_to"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/B_restaurants"
+        android:layout_toEndOf="@+id/B_restaurants"
+        android:onClick="onClick"
+        android:text="@string/To" />
+
+    <Button
+        android:id="@+id/addToWidged"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="109dp"
+        android:layout_marginTop="116dp"
+        android:text="@string/Add_to_Widget" />
+
+
+</RelativeLayout>

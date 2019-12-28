@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [io.paperdb:paperdb:2.5] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/paperdb-2.5.aar/8b378704be28f68ec770f8e63c6bc399/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/c46903d87a85832741269126915bf4fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3647735023d8f75a8e72698a1c439712/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/8b6d0b778190da1a76d4ed45075b47cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/b7745d82d0223dc1c5da4e6ade46c904/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/3db9a663d578086aaf00d3a2fa9cfc05/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.3.aar/3c5b616f5abc16e7690a110e0eb6d88e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/b92e72260ac9aafb80285425cfc9486c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/643eed899013e110cdd17fd9e795d296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/17628f5f7e9d54a722d1f3650e7a5577/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c86dd82e994dd54d8c49c9b647ef2872/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/43bac2a51e98de4c103fef541c22f733/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/bbe21e63d609badf02283f5acf9223f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/187df50113a8fd5640987d184d1ee1b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/1330b89f6a0558f95bacc58f86b95a53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/2c2833ba32493ba3afd3c6a634592b03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/b0c9dfa7c52d9f5853358158f706b26e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/075dfda449dae684891554ceebc68278/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/67608f61fb71ae938c5dd94b5bb29675/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/07777ca30a70f7fc5cb97e7269e70f59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f5111b7021fbc12b7edc1f55071101fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/88d3ad506e4e4c146471b8883f66949c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/03fc6d3c9baad68f1b3fe2fa99ef2e81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbf2de8ba893ac24301ca1320e56282e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/7c22255477d8ffb17bdaf8575c156e8c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/c874a0f39c57fefccb8469598a0bebce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/0b6973ee458fe9527e854a31d96b21b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/4a4f09a27071cffc466b906a3efd1957/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/778dc4c2c64643b3a0c31b9147a38de9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/fb81df5f57fe4eb7ef74d9a06aea7c8d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/399d65f5ad2371ffe2c25f6c6458aa9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/47236d225e1609f7927e84304067061b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:7:5-38:19
+MERGED from [io.paperdb:paperdb:2.5] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/paperdb-2.5.aar/8b378704be28f68ec770f8e63c6bc399/AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.5] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/paperdb-2.5.aar/8b378704be28f68ec770f8e63c6bc399/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3647735023d8f75a8e72698a1c439712/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3647735023d8f75a8e72698a1c439712/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/88d3ad506e4e4c146471b8883f66949c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/88d3ad506e4e4c146471b8883f66949c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/7c22255477d8ffb17bdaf8575c156e8c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/7c22255477d8ffb17bdaf8575c156e8c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/88d3ad506e4e4c146471b8883f66949c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.siddarth.bakingapp.MainActivity
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.siddarth.bakingapp.tabletView
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:23:9-48
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:23:19-45
+receiver#com.example.siddarth.bakingapp.BakingWidget
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:26:13-28:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:27:17-84
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:27:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:30:13-32:62
+	android:resource
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:32:17-59
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:31:17-58
+service#com.example.siddarth.bakingapp.WidgetService
+ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:35:9-37:71
+	android:permission
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml:36:13-41
+uses-sdk
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+MERGED from [io.paperdb:paperdb:2.5] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/paperdb-2.5.aar/8b378704be28f68ec770f8e63c6bc399/AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.5] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/paperdb-2.5.aar/8b378704be28f68ec770f8e63c6bc399/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/c46903d87a85832741269126915bf4fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/c46903d87a85832741269126915bf4fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3647735023d8f75a8e72698a1c439712/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/3647735023d8f75a8e72698a1c439712/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/8b6d0b778190da1a76d4ed45075b47cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/8b6d0b778190da1a76d4ed45075b47cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/b7745d82d0223dc1c5da4e6ade46c904/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.7.3.aar/b7745d82d0223dc1c5da4e6ade46c904/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/3db9a663d578086aaf00d3a2fa9cfc05/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.7.3.aar/3db9a663d578086aaf00d3a2fa9cfc05/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.3.aar/3c5b616f5abc16e7690a110e0eb6d88e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.7.3.aar/3c5b616f5abc16e7690a110e0eb6d88e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/b92e72260ac9aafb80285425cfc9486c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/b92e72260ac9aafb80285425cfc9486c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/643eed899013e110cdd17fd9e795d296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/643eed899013e110cdd17fd9e795d296/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/17628f5f7e9d54a722d1f3650e7a5577/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/17628f5f7e9d54a722d1f3650e7a5577/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c86dd82e994dd54d8c49c9b647ef2872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/c86dd82e994dd54d8c49c9b647ef2872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/43bac2a51e98de4c103fef541c22f733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/43bac2a51e98de4c103fef541c22f733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/bbe21e63d609badf02283f5acf9223f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/bbe21e63d609badf02283f5acf9223f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/187df50113a8fd5640987d184d1ee1b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/187df50113a8fd5640987d184d1ee1b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/1330b89f6a0558f95bacc58f86b95a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/1330b89f6a0558f95bacc58f86b95a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/2c2833ba32493ba3afd3c6a634592b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/2c2833ba32493ba3afd3c6a634592b03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/b0c9dfa7c52d9f5853358158f706b26e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/b0c9dfa7c52d9f5853358158f706b26e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/075dfda449dae684891554ceebc68278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/075dfda449dae684891554ceebc68278/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/67608f61fb71ae938c5dd94b5bb29675/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/67608f61fb71ae938c5dd94b5bb29675/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/07777ca30a70f7fc5cb97e7269e70f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/07777ca30a70f7fc5cb97e7269e70f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f5111b7021fbc12b7edc1f55071101fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f5111b7021fbc12b7edc1f55071101fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/88d3ad506e4e4c146471b8883f66949c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/88d3ad506e4e4c146471b8883f66949c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/03fc6d3c9baad68f1b3fe2fa99ef2e81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/03fc6d3c9baad68f1b3fe2fa99ef2e81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbf2de8ba893ac24301ca1320e56282e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dbf2de8ba893ac24301ca1320e56282e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/7c22255477d8ffb17bdaf8575c156e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/7c22255477d8ffb17bdaf8575c156e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/c874a0f39c57fefccb8469598a0bebce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/c874a0f39c57fefccb8469598a0bebce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/0b6973ee458fe9527e854a31d96b21b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/0b6973ee458fe9527e854a31d96b21b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/4a4f09a27071cffc466b906a3efd1957/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/4a4f09a27071cffc466b906a3efd1957/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/778dc4c2c64643b3a0c31b9147a38de9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/778dc4c2c64643b3a0c31b9147a38de9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/fb81df5f57fe4eb7ef74d9a06aea7c8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/fb81df5f57fe4eb7ef74d9a06aea7c8d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/399d65f5ad2371ffe2c25f6c6458aa9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/399d65f5ad2371ffe2c25f6c6458aa9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/47236d225e1609f7927e84304067061b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/siddarth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/47236d225e1609f7927e84304067061b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/siddarth/Desktop/Android Udacity Projects/Baking App Project/app/src/main/AndroidManifest.xml

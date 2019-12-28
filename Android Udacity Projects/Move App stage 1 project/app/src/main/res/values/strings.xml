@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">movieApp</string>
+    <string-array name="OptionsArray">
+
+        <item>Popular</item>
+        <item>Top-rated</item>
+    </string-array>
+
+
+</resources>
